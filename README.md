@@ -1,3 +1,3 @@
 # Resume
 
-Here is my resume written in latex. Updated 3/23/16. 
+Here is my resume. Updated 10/23/16. 
